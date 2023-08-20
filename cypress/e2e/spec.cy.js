@@ -1,5 +1,5 @@
 import { LoginMethods } from "./pages/login/login.methods"
-import { SignupMethods } from "./signup/signup.methods"
+import { SignupMethods } from "./pages/signup/signup.methods"
 import { Logger } from "./util/logger"
 
 describe('template spec', () => {
